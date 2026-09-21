@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Dhruva-200
-- 👀 I’m interested in Creating worlds through code
-- 🌱 I’m currently Unreal engine 5
-- 💞️ I’m looking to collaborate on Game development
+- 👋 Hi, I’m Dhruva
+- get gud
 
 
 <!---
